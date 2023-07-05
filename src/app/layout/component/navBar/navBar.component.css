@@ -1,0 +1,10 @@
+.btn-secondary{
+  background: white;
+  color:black
+}
+.bg-secondary{
+  background-color: #f5f7fa !important;
+}
+.btn-outline-primary{
+  border-color: rgb(255, 255, 255);
+}

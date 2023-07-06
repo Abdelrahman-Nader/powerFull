@@ -23,7 +23,8 @@ import { RouterModule } from '@angular/router';
     HttpClientModule,
     // NavModule,
     LayoutModule,
-    NgbModule
+    NgbModule,
+
   ],
   providers: [],
   bootstrap: [AppComponent]
